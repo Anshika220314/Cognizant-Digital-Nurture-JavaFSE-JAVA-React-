@@ -1,0 +1,8 @@
+[X] Spring Data JPA - Quick Example Done
+[X] Quick Concept Check:
+    - JPA: The specification guidelines (Rules).
+    - Hibernate: The concrete provider library implementing JPA rules.
+    - Spring Data JPA: An abstraction layer that completely removes database boilerplate code using repositories.
+[X] Implement services for managing Country (Done)
+[X] Find a country based on country code (Done)
+[X] Add a new country (Done)

@@ -1,0 +1,2 @@
+[X] Demonstrate writing Hibernate Query Language (HQL) using @Query
+[X] Demonstrate writing Native Query (SQL) using @Query(nativeQuery = true)

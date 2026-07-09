@@ -1,0 +1,2 @@
+[X] Demonstrate implementation of Query Methods feature of Spring Data JPA
+[X] Demonstrate implementation of O/R Mapping using @Entity and @Table annotations
